@@ -1,0 +1,20 @@
+{
+  "name": "api2.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cluster": "^0.7.7",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.4",
+    "os": "^0.1.2",
+    "process": "^0.11.10"
+  }
+}
